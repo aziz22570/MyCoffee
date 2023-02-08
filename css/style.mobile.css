@@ -9,6 +9,12 @@ nav ul {
 nav ul li {
   float: none;
 }
+nav ul li a:hover {
+  border-bottom: none;
+}
+.active {
+  border-bottom: none;
+}
 .vp {
   height: 600px;
 }
