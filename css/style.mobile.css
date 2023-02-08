@@ -1,0 +1,35 @@
+.header nav h1 {
+  float: none;
+  text-align: center;
+}
+nav ul {
+  float: none;
+  margin: 0;
+}
+nav ul li {
+  float: none;
+}
+.vp {
+  height: 600px;
+}
+.feature {
+  padding: 100px 10px;
+}
+.where {
+  padding: 50px 0;
+}
+.where-img {
+  float: none;
+  width: 90%;
+  margin: auto;
+}
+.where-text {
+  float: none;
+  width: 90%;
+  margin: auto;
+  padding: 50px 0;
+}
+.form-container {
+  width: 90%;
+  margin: auto;
+}
